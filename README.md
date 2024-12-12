@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Archit Tiwari</h1>
-<h3 align="center">Driven by innovation and technology, based in India</h3>
+<h3 align="center">Driven by innovation, technology, and a passion for solving complex challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archit-10&label=Profile%20views&color=0e75b6&style=flat" alt="archit-10" /> </p>
 
