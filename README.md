@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ML/AI techniques for climate change visualization and modeling**
+- 🔭 I’m currently working on **developing multi-modal biometric systems combining fingerprint, iris, and face data for secure voter authentication with fallback mechanisms.**
+
+
 
 - 🌱 I’m currently learning **Cloud Technologies, Decentralized Applications(dApps)**
 
